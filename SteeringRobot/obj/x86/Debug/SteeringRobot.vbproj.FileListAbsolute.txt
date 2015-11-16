@@ -1,0 +1,38 @@
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\bin\Debug\SteeringRobot.exe
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\bin\Debug\SteeringRobot.pdb
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\bin\Debug\SteeringRobot.xml
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\obj\x86\Debug\SteeringRobot.Resources.resources
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\obj\x86\Debug\SteeringRobot.exe
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\obj\x86\Debug\SteeringRobot.xml
+C:\Users\alisaj01\AppData\Local\Temporary Projects\SteeringRobot\obj\x86\Debug\SteeringRobot.pdb
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\obj\x86\Debug\SteeringRobot.exe
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\obj\x86\Debug\SteeringRobot.xml
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\obj\x86\Debug\SteeringRobot.pdb
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\bin\Debug\SteeringRobot.exe
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\bin\Debug\SteeringRobot.pdb
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\bin\Debug\SteeringRobot.xml
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\obj\x86\Debug\SteeringRobot.Resources.resources
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\SteeringRobot\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\obj\x86\Debug\SteeringRobot.exe
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\obj\x86\Debug\SteeringRobot.xml
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\obj\x86\Debug\SteeringRobot.pdb
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\bin\Debug\SteeringRobot.exe
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\bin\Debug\SteeringRobot.pdb
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\bin\Debug\SteeringRobot.xml
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\obj\x86\Debug\SteeringRobot.Resources.resources
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\alisaj01\Desktop\Innometrics\SteeringRobot\test\Solution\SteeringRobot\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\alisaj01\Downloads\Test\Test\Solution\SteeringRobot\obj\x86\Debug\SteeringRobot.exe
+C:\Users\alisaj01\Downloads\Test\Test\Solution\SteeringRobot\obj\x86\Debug\SteeringRobot.xml
+C:\Users\alisaj01\Downloads\Test\Test\Solution\SteeringRobot\obj\x86\Debug\SteeringRobot.pdb
+C:\Users\alisaj01\Downloads\Test\Test\Solution\SteeringRobot\bin\Debug\SteeringRobot.exe
+C:\Users\alisaj01\Downloads\Test\Test\Solution\SteeringRobot\bin\Debug\SteeringRobot.pdb
+C:\Users\alisaj01\Downloads\Test\Test\Solution\SteeringRobot\bin\Debug\SteeringRobot.xml
+C:\Users\alisaj01\Downloads\Test\Test\Solution\SteeringRobot\obj\x86\Debug\SteeringRobot.Resources.resources
+C:\Users\alisaj01\Downloads\Test\Test\Solution\SteeringRobot\obj\x86\Debug\SteeringRobot.vbproj.GenerateResource.Cache
